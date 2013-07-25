@@ -1,4 +1,7 @@
 Hi it is git repository used to store file by making use of git.
 
 Hi I am file 
+<<<<<<< HEAD
 Here i am adding new line to the file.
+=======
+>>>>>>> 04ea988626a75d8e238a975193749e673f9400b0
